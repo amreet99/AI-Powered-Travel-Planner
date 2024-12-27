@@ -1,5 +1,7 @@
 # AI-TRAVEL_PLANNER
 
+## A platform using AI to create personalized travel itineraries based on user preferences, budget, and time
+
 #### Click on the `Start planning with AI` after installation to play with it.
 
 ## Environment Variables
