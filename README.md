@@ -41,6 +41,6 @@ npm preview
 
 ## Author
 
-- [  @Amrit Paudel- Chandigarh University (BE-CSE)  ]
+- [  Amrit Paudel- Chandigarh University (BE-CSE)  ]
 
 
