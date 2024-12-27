@@ -21,16 +21,9 @@ const AboutUs = () => {
         <div className="mt-10 text-center text-stone-900"> 
           <p className="text-2xl font-bold text-[#1a1a1a]">Developed By:</p>
           <ul className="list-none space-y-2 mt-4"> 
-          <li>
-              <span className="font-medium">Gautham Madhu</span> - CSE Student
-            </li>
-            <li>
-              <span className="font-medium">Luthfi Nassir</span> - CSE Student
-            </li>
-            <li>
-              <span className="font-medium">Archit Garg</span> - CSE Student
-            </li>
-            
+          <li className="font-medium text-white">
+              <span >Amrit Paudel</span> - CSE Chandigarh University
+            </li> 
           </ul>
         </div>
         <div className="mt-10">

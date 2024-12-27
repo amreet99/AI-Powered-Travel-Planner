@@ -61,7 +61,7 @@ const Results = () => {
       <div className="mt-[115px] mx-5 lg:mx-20  ">
         {isLoading ? (
           <>
-            <h2 className="text-2xl font-bold mb-5 animate-pulse text-slate-800 text-center m-5">
+            <h2 className="text-2xl font-bold mb-5 animate-pulse text-white text-center m-5">
               Parsing Results....
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 my-5 sm:m-0 lg:m-5">

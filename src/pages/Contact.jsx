@@ -21,10 +21,10 @@ const ContactUs = () => {
           <h2 className="text-2xl font-bold text-[#1a1a1a]">Contact Information</h2>
           <ul className="list-none space-y-2">
             <li>
-              <span className="font-medium text-[#f9b17a]">Email:</span> info@voyage.ai
+              <span className="font-medium text-[#f9b17a]">Email:</span> amreetpaudel999@gmail.com
             </li>
             <li>
-              <span className="font-medium text-[#f9b17a]">Phone:</span> +91 9207757005
+              <span className="font-medium text-[#f9b17a]">Phone:</span> +91 9779319356
             </li>
           </ul>
         </div>
