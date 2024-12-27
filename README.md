@@ -41,6 +41,6 @@ npm preview
 
 ## Author
 
-- [@Amrit Paudel]((https://github.com/amreet99))
+- [@Amrit Paudel- Chandigarh University (BE-CSE)]
 
 
