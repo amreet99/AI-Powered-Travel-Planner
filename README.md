@@ -1,4 +1,4 @@
-# VoyagAI
+# AI-TRAVEL_PLANNER
 
 #### Click on the `Start planning with AI` after installation to play with it.
 
