@@ -1,4 +1,4 @@
-# AI-TRAVEL_PLANNER
+# AI-Powered Travel Planner
 
 ### A platform using AI to create personalized travel itineraries based on user preferences, budget, and time
 ### Objective Matched: Personalized: Created customized travel plans. Budget Optimization: Allocated expenses efficiently. Time Management: Maximized trip productivity. AI Recommendations: Suggested Places to visit including everything. Real-Time: Adaptaion of plans dynamically (Real-Time Suggestion and Results )
