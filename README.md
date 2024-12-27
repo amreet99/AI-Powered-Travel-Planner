@@ -39,9 +39,8 @@ npm preview
 - Play with the form and watch the results!
 
 
-## Authors💖
+## Author
 
-- [@friedavocadoes](https://www.github.com/friedavocadoes)
-- [@LuthfiNassir](https://github.com/LuthfiNassir)
-- [@Archit5655](https://github.com/Archit5655)
+- [@Amrit Paudel]((https://github.com/amreet99))
+
 
