@@ -5,7 +5,7 @@ const AboutUs = () => {
     <div className="relative px-6 pt-14 flex items-center justify-center min-h-screen mt-20">
       <div className="text-center max-w-[700px]"> 
         <h1 className="text-4xl font-bold tracking-tight text-[#767fb4] sm:text-6xl">
-          About VoyageAI
+          About 
         </h1>
         <p className="mt-6 text-lg leading-8 text-slate-300 font-light">
           Your Personalized Travel Guide, Powered by AI
@@ -19,7 +19,7 @@ const AboutUs = () => {
           </p>
         </div>
         <div className="mt-10 text-center text-stone-900"> 
-          <p className="text-2xl font-bold text-[#1a1a1a]">Developed By:</p>
+          <p className="text-2xl text-white font-bold text-[#1a1a1a]">Developed By:</p>
           <ul className="list-none space-y-2 mt-4"> 
           <li className="font-medium text-white">
               <span >Amrit Paudel</span> - CSE Chandigarh University
