@@ -1,6 +1,11 @@
 # AI-TRAVEL_PLANNER
 
-## A platform using AI to create personalized travel itineraries based on user preferences, budget, and time
+### A platform using AI to create personalized travel itineraries based on user preferences, budget, and time
+### Objective Matched : Personalized Itineraries: Create customized travel plans.
+ Budget Optimization: Allocate expenses efficiently.
+ Time Management: Maximize trip productivity.
+ Custom Recommendations: Suggest activities based on user preferences.
+ Real-Time Adjustments: Adapt plans dynamically.
 
 #### Click on the `Start planning with AI` after installation to play with it.
 
